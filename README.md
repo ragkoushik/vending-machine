@@ -1,6 +1,6 @@
 # vending-machine
 
-## Description & Constraints 
+## Description and constraints 
 The vending machine can be operated on a CLI
 - The vending machine has been tasked to dispense the latest vegan chocolate bars. 
 - The system allows the user to enter coins in the following denominations (10c, 20c, 50c, $1, $2). 
